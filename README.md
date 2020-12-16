@@ -7,7 +7,7 @@ Assets for demonstration of the blog post **"Automated End-to-End Solution to Pr
 
 - **[flow_Google Form Analytics Design Pattern.zip](https://github.com/victorcouste/demo-trigger-dataprep-job-from-gcs/blob/master/flow_dataprep_demo.zip)** : Dataprep Flow package example to import from Dataprep UI.
 
-- **[mockarooAKS.csv](https://github.com/victorcouste/demo-trigger-dataprep-job-from-gcs/blob/master/Customers.csv)** : Example of survey responses CSV file used as one of inputs of the flow example and to be stored in the Google Cloud Storage you want to monitor.
+- **[mockarooAKS.csv](https://github.com/aagithubb/processing-google-forms-survey-data-in-gcp-I/blob/main/mockarooAKS.csv)** : Example of survey responses CSV file used as one of inputs of the flow example and to be stored in the Google Cloud Storage you want to monitor.
 
 - **[mockarooAKS.zip](https://docs.google.com/spreadsheets/d/10EvnxBM1jXcJj62K7ovAdcA3I8JMOWGU8XUty4bU_C4/edit#gid=0)** : Example of survey responses ZIP file used as one of inputs of the flow example and to be stored in the Google Cloud Storage you want to monitor.
 
