@@ -9,7 +9,7 @@ Assets for demonstration of the blog post **"Automated End-to-End Solution to Pr
 
 - **[mockarooAKS.csv](https://github.com/aagithubb/processing-google-forms-survey-data-in-gcp-I/blob/main/mockarooAKS.csv)** : Example of survey responses CSV file used as one of inputs of the flow example and to be stored in the Google Cloud Storage you want to monitor.
 
-- **[mockarooAKS.zip](https://docs.google.com/spreadsheets/d/10EvnxBM1jXcJj62K7ovAdcA3I8JMOWGU8XUty4bU_C4/edit#gid=0)** : Example of survey responses ZIP file used as one of inputs of the flow example and to be stored in the Google Cloud Storage you want to monitor.
+- **[mockarooAKS.zip](https://github.com/aagithubb/processing-google-forms-survey-data-in-gcp-I/blob/main/mockarooAKS.zip)** : Example of survey responses ZIP file used as one of inputs of the flow example.
 
 - **[cf-decompress-trigger-dataprep.py](https://github.com/aagithubb/processing-google-forms-survey-data-in-gcp-I/blob/main/cf-decompress-trigger-dataprep.py)** : Background Python function to decompress the file and trigger a Dataprep job when a file ZIP is created in a Google Cloud Storage bucket folder. Dataprep job started with REST API call and new decompressed file as parameter.
 
