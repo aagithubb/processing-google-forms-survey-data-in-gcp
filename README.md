@@ -7,11 +7,11 @@ Assets for demonstration of the blog post **"Automated End-to-End Solution to Pr
 
 - **[flow_Google Form Analytics Design Pattern.zip](https://github.com/victorcouste/demo-trigger-dataprep-job-from-gcs/blob/master/flow_dataprep_demo.zip)** : Dataprep Flow package example to import from Dataprep UI.
 
-- **[mockarooAKS.csv](https://github.com/aagithubb/processing-google-forms-survey-data-in-gcp-I/blob/main/mockarooAKS.csv)** : Example of survey responses CSV file used as one of inputs of the flow example and to be stored in the Google Cloud Storage you want to monitor.
+- **[mockarooAKS.csv](https://github.com/aagithubb/processing-google-forms-survey-data-in-gcp/blob/main/mockarooAKS.csv)** : Example of survey responses CSV file used as one of inputs of the flow example and to be stored in the Google Cloud Storage you want to monitor.
 
-- **[mockarooAKS.zip](https://github.com/aagithubb/processing-google-forms-survey-data-in-gcp-I/blob/main/mockarooAKS.zip)** : Example of survey responses ZIP file used as one of inputs of the flow example.
+- **[mockarooAKS.zip](https://github.com/aagithubb/processing-google-forms-survey-data-in-gcp/blob/main/mockarooAKS.zip)** : Example of survey responses ZIP file used as one of inputs of the flow example.
 
-- **[cf-decompress-trigger-dataprep.py](https://github.com/aagithubb/processing-google-forms-survey-data-in-gcp-I/blob/main/cf-decompress-trigger-dataprep.py)** : Background Python function to decompress the file and trigger a Dataprep job when a file ZIP is created in a Google Cloud Storage bucket folder. Dataprep job started with REST API call and new decompressed file as parameter.
+- **[cf-decompress-trigger-dataprep.py](https://github.com/aagithubb/processing-google-forms-survey-data-in-gcp/blob/main/cf-decompress-trigger-dataprep.py)** : Background Python function to decompress the file and trigger a Dataprep job when a file ZIP is created in a Google Cloud Storage bucket folder. Dataprep job started with REST API call and new decompressed file as parameter.
 
 
 Google Cloud Functions https://cloud.google.com/functions
