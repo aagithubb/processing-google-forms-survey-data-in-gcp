@@ -13,6 +13,8 @@ Assets for demonstration of the blog post **"Automated End-to-End Solution to Pr
 
 - **[cf-decompress-trigger-dataprep.py](https://github.com/aagithubb/processing-google-forms-survey-data-in-gcp/blob/main/cf-decompress-trigger-dataprep.py)** : Background Python function to decompress the file and trigger a Dataprep job when a file ZIP is created in a Google Cloud Storage bucket folder. Dataprep job started with REST API call and new decompressed file as parameter.
 
+- **[requirements.txt](https://github.com/aagithubb/processing-google-forms-survey-data-in-gcp/blob/main/requirements.txt)** : Code complement to be include as requirements in the Python Cloud Function definition.
+
 
 Google Cloud Functions https://cloud.google.com/functions
 
