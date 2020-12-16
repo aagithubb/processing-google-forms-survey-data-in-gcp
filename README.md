@@ -5,7 +5,7 @@ Building an automated pipeline in Google Cloud Platform to decompress, prepare a
 
 Assets for demonstration of the blog post **"Automated End-to-End Solution to Process and Visualy Analyze Google Form Survey Responses"(https://docs.google.com/document/d/1hEo_qrrykVZq19rN2kZ5ZgjNFID9odsEehN0Tlj9v-w/edit#heading=h.ep3hsi5hfvb9)**
 
-- **[flow_Google Form Analytics Design Pattern.zip](https://github.com/victorcouste/demo-trigger-dataprep-job-from-gcs/blob/master/flow_dataprep_demo.zip)** : Dataprep Flow package example to import from Dataprep UI.
+- **[flow_Google Form Analytics Design Pattern.zip](https://github.com/aagithubb/processing-google-forms-survey-data-in-gcp/blob/main/flow_Google%20Form%20Analytics%20Design%20Pattern.zip)** : Dataprep Flow package example to import from Dataprep UI.
 
 - **[mockarooAKS.csv](https://github.com/aagithubb/processing-google-forms-survey-data-in-gcp/blob/main/mockarooAKS.csv)** : Example of survey responses CSV file used as one of inputs of the flow example and to be stored in the Google Cloud Storage you want to monitor.
 
