@@ -3,7 +3,7 @@ Building an automated pipeline in Google Cloud Platform to decompress, prepare a
 
 ![image](gcp-automated-pipeline.png)
 
-Assets for demonstration of the blog post **"Automated End-to-End Solution to Process and Visualy Analyze Google Form Survey Responses"(https://docs.google.com/document/d/1hEo_qrrykVZq19rN2kZ5ZgjNFID9odsEehN0Tlj9v-w/edit#heading=h.ep3hsi5hfvb9)**
+Assets for demonstration of the blog post **Automated End-to-End Solution to Process and Visualy Analyze Google Form Survey Responses(https://docs.google.com/document/d/1hEo_qrrykVZq19rN2kZ5ZgjNFID9odsEehN0Tlj9v-w/edit#heading=h.ep3hsi5hfvb9)**
 
 - **[flow-Google-Form-Analytics-Design-Pattern.zip](https://github.com/aagithubb/processing-google-forms-survey-data-in-gcp/blob/main/flow_Google%20Form%20Analytics%20Design%20Pattern.zip)** : Dataprep Flow package example to import from Dataprep UI.
 
