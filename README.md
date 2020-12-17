@@ -1,5 +1,5 @@
 # processing-google-forms-survey-data-in-gcp:
-Building an automated pipeline in Google Cloud Platform to decompress, prepare and perform visual analytics on responses collected with Google Form surveys. For a comprehensive explanation of the application of Cloud Functions to automate a Cloud Dataprep pipeline, please refer to the use case discussed in this **[article](https://www.trifacta.com/blog/automate-cloud-dataprep-pipeline-data-warehouse/)**
+Building an automated pipeline in Google Cloud Platform to decompress, prepare and perform visual analytics on responses collected with Google Form surveys. For a comprehensive explanation of the application of Cloud Functions to automate a Cloud Dataprep pipeline, please refer to the use case discussed in this **[article](https://www.trifacta.com/blog/automate-cloud-dataprep-pipeline-data-warehouse/)**.
 
 ![image](gcp-automated-pipeline.png)
 
